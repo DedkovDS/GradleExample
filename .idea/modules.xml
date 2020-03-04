@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ds_dedkov.GradleExample.iml" filepath="$PROJECT_DIR$/.idea/modules/ds_dedkov.GradleExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ds_dedkov.GradleExample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ds_dedkov.GradleExample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ds_dedkov.GradleExample.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ds_dedkov.GradleExample.test.iml" />
+    </modules>
+  </component>
+</project>
