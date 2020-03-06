@@ -10,6 +10,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 public class GradleExampleApplication {
 
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(GradleExampleApplication.class, args);
 	}
